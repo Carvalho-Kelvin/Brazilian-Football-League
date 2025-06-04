@@ -1,0 +1,16 @@
+# Google Sheets API credentials
+brazilian-football.json
+
+# Python virtual environment
+myenv/
+.venv/ # In case you named your virtual environment .venv
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Generated files
+feature_importances.csv
